@@ -1,0 +1,15 @@
+{
+  "name": "picpacker",
+  "version": "1.0.0",
+  "description": "Node.js tool that efficiently downloads and packs images from the web into a ZIP archive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dandiş Gheorghe",
+  "license": "ISC",
+  "dependencies": {
+    "jszip": "^3.10.1",
+    "node-fetch": "^3.3.2"
+  }
+}
